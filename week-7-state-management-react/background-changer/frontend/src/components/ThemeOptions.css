@@ -1,0 +1,49 @@
+.outer-div{
+    display: flex;
+    justify-content: space-around;
+    width : 50%;
+    box-shadow: 1px 1px 7px black;
+    padding-top: 3px;
+    padding-bottom: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 650px;
+}
+
+.theme{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border: 0px;
+    
+}
+
+.red{
+    background-color: red;
+    border-radius: 10px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.black{
+    background-color: black;
+    color : white
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.default{
+    background-color: orange;
+}
