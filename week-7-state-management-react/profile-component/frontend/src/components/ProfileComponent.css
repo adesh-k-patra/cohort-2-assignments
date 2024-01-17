@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Ubuntu&display=swap');
+
+p.focus{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+    position: relative;
+    bottom: 10px;
+}
+
+p.focus-lite{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+    bottom: 20px;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.age{
+    position: relative;
+    top: 8px;
+    left: 7px;
+}
+
+
+.name{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+}
+.name-info{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+
+
+.outer-div{
+    border-style: solid;
+    background-color: #F5EEE6;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+.personal-info{
+    padding-top: 70px;
+}
+
+.place-info{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 15px;
+}
+
+.profile-pic{
+    position: absolute;
+}
+
+.social-info{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub-social{
+    text-align: center;
+}
+
+.top-div{
+    background-color: #E6A4B4;
+    height: 170px;
+    
+}
