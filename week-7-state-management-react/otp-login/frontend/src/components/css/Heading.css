@@ -1,0 +1,16 @@
+
+.outer-div{
+    text-align: center;
+    color: white;
+    border-style: solid;
+    height: 700px;
+    border-radius: 100px;
+}
+
+.heading{
+    font-size: 60px;
+    padding-top: 20px;
+}
+
+
+
